@@ -16,7 +16,7 @@ class Blog extends React.Component {
 
     return (
       <Layout location={this.props.location} title={siteTitle}>
-        <SEO title="All posts" />
+        <SEO title="We Are Matt blog posts" />
         <Bio />
         <SearchPosts
           posts={posts}
@@ -53,7 +53,7 @@ export const pageQuery = graphql`
             slug
           }
           frontmatter {
-            date(formatString: "MMMM DD, YYYY")
+            date(formatString: "DD MMMM, YYYY")
             title
             description
           }
