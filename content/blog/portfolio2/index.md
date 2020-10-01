@@ -9,7 +9,7 @@ connecting to the NBN and not having internet for 4 days. During this hiccup, I 
 
 ![Screenshot of the home page](./WAM1.png)
 
-##### > [Hosted on Netlify](https://wearematt88.netlify.app/ "wearematt88.netlify.app")
+> #### [Hosted on Netlify](https://wearematt88.netlify.app/ "wearematt88.netlify.app")
 
 Creating this new website, was an interesting process. Initially I implemented the React Tic Tac Toe tutorial as a component in the SPA, however, this was not responsive and did not work as intended on mobile devices. Additionally the postitioning of my social media links was difficult at first to get right.  
 
