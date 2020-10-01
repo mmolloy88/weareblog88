@@ -1,0 +1,29 @@
+html {
+    background: rgb(45,118,127);
+    background: linear-gradient(90deg, rgba(45,118,127,1) 70%, rgb(11, 171, 137) 100%);
+}
+
+/* unvisited link */
+a:link {
+    color: #F0F0F0;
+    transition: 0.3s;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: #C9C9C9;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: #FFF;
+  }
+  
+  /* selected link */
+  a:active {
+    color: #FFF;
+  }
+
+  img {
+    border: 1px solid #1c494f;
+  }
